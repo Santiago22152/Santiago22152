@@ -1,4 +1,6 @@
-<img width="70%" height="auto" src="https://capfinex.com/wa-data/public/blog/img/crypto_wallet_capfinex.png" height="175px"/>
+<div align="center">
+  <img width="70%" height="auto" src="https://capfinex.com/wa-data/public/blog/img/crypto_wallet_capfinex.png" alt="Header Image"/>
+</div>
 <h1 align="center">Hi 👋, I'm Santiago Corrales</h1>
 <h3 align="center">A Web Developer passionate about cybersecurity and building useful, agile tools to solve real-world problems.</h3>
 
