@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40"/>
         <br>Bash
       </a>
     </td>
